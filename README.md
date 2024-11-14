@@ -1,4 +1,10 @@
-# EXPERIMENT-05-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+# EXP-05-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+
+```
+ Name: Syed Mokthiyar S M
+ Reg No: 212222230156
+ Date : 09/10/2024
+```
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
@@ -61,11 +67,10 @@ Now each of these lines EXTI0-EXTI15 can be used to trigger an interrupt on diff
  13. Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE. 
  14. After creation of the circuit as per requirement as shown below 
 
- 14. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
-https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
+ 15. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). 
+ Click OK to save the changes.https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
- 15. click on debug and simulate using simulation as shown below 
-
+ 16. click on debug and simulate using simulation as shown below 
 
 
 ## STM 32 CUBE PROGRAM :
